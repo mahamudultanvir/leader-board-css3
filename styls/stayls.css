@@ -131,6 +131,32 @@ hr{
     
 }
 .course-duration{
-    padding-right: 70px;
-}
+    padding-right: 80px;
+    background-color: #ffc014;
+    border-radius: 5px;
+    
 
+}
+.top{
+    display: flex;
+    grid-row: 1;
+    font-size: 100%;
+    padding-left:325px;
+    align-items: center
+    
+}
+.home{
+    padding-left: 700px;
+    font-weight: 300px;
+    text-decoration: none;
+    
+     
+}
+/* .main-head{
+    background-color: #562EFF; */
+
+.header{
+    background-color: #562EFF;
+
+    
+}
